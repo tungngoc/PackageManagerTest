@@ -1,0 +1,14 @@
+c:\users\nntung\source\repos\PackagesManager\PackageManager.Infranstructure\obj\Debug\netcoreapp2.0\PackageManager.Infranstructure.csprojResolveAssemblyReference.cache
+c:\users\nntung\source\repos\PackagesManager\PackageManager.Infranstructure\obj\Debug\netcoreapp2.0\PackageManager.Infranstructure.csproj.CoreCompileInputs.cache
+c:\users\nntung\source\repos\PackagesManager\PackageManager.Infranstructure\obj\Debug\netcoreapp2.0\PackageManager.Infranstructure.AssemblyInfoInputs.cache
+c:\users\nntung\source\repos\PackagesManager\PackageManager.Infranstructure\obj\Debug\netcoreapp2.0\PackageManager.Infranstructure.AssemblyInfo.cs
+c:\users\nntung\source\repos\PackagesManager\PackageManager.Infranstructure\bin\Debug\netcoreapp2.0\PackageManager.Application.dll
+c:\users\nntung\source\repos\PackagesManager\PackageManager.Infranstructure\bin\Debug\netcoreapp2.0\PackageManager.Domain.dll
+c:\users\nntung\source\repos\PackagesManager\PackageManager.Infranstructure\bin\Debug\netcoreapp2.0\PackageManager.Infranstructure.deps.json
+c:\users\nntung\source\repos\PackagesManager\PackageManager.Infranstructure\bin\Debug\netcoreapp2.0\PackageManager.Infranstructure.dll
+c:\users\nntung\source\repos\PackagesManager\PackageManager.Infranstructure\bin\Debug\netcoreapp2.0\PackageManager.Infranstructure.pdb
+c:\users\nntung\source\repos\PackagesManager\PackageManager.Infranstructure\bin\Debug\netcoreapp2.0\PackageManager.Application.pdb
+c:\users\nntung\source\repos\PackagesManager\PackageManager.Infranstructure\bin\Debug\netcoreapp2.0\PackageManager.Domain.pdb
+c:\users\nntung\source\repos\PackagesManager\PackageManager.Infranstructure\obj\Debug\netcoreapp2.0\PackageManager.Infranstructure.csproj.CopyComplete
+c:\users\nntung\source\repos\PackagesManager\PackageManager.Infranstructure\obj\Debug\netcoreapp2.0\PackageManager.Infranstructure.dll
+c:\users\nntung\source\repos\PackagesManager\PackageManager.Infranstructure\obj\Debug\netcoreapp2.0\PackageManager.Infranstructure.pdb

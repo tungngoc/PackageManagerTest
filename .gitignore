@@ -1,0 +1,9 @@
+PackagesManager/bin/
+PackageManager.Core/obj/Debug/
+PackageManager.Infranstructure/bin/Debug/
+PackageManager.Core/bin/
+PackageManager.Application/bin/Debug/netcoreapp2.0/PackageManager.Application.dll
+*.dll
+PackageManager.Application/bin/
+PackageManager.Application/obj/Debug/
+PackagesManager/obj/Debug/
